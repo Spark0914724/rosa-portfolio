@@ -1,23 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/api/contact/route": "app/api/contact/route.js",
-  "/api/track-visit/route": "app/api/track-visit/route.js",
-  "/api/visitor-logs/[id]/route": "app/api/visitor-logs/[id]/route.js",
   "/api/visitor-logs/route": "app/api/visitor-logs/route.js",
-  "/mhe-control-center/auth/callback/page": "app/mhe-control-center/auth/callback/page.js",
-  "/mhe-control-center/login/page": "app/mhe-control-center/login/page.js",
-  "/mhe-control-center/page": "app/mhe-control-center/page.js",
-  "/(admin)/mhe-control-center/messages/[id]/page": "app/(admin)/mhe-control-center/messages/[id]/page.js",
-  "/(admin)/mhe-control-center/cms/[section]/page": "app/(admin)/mhe-control-center/cms/[section]/page.js",
-  "/(admin)/mhe-control-center/dashboard/page": "app/(admin)/mhe-control-center/dashboard/page.js",
-  "/(public)/blog/[slug]/page": "app/(public)/blog/[slug]/page.js",
-  "/(admin)/mhe-control-center/portfolio/page": "app/(admin)/mhe-control-center/portfolio/page.js",
-  "/(public)/page": "app/(public)/page.js",
+  "/(public)/portfolio/page": "app/(public)/portfolio/page.js",
   "/(admin)/mhe-control-center/visitors/page": "app/(admin)/mhe-control-center/visitors/page.js",
-  "/(public)/contact/page": "app/(public)/contact/page.js",
-  "/(admin)/mhe-control-center/messages/page": "app/(admin)/mhe-control-center/messages/page.js",
-  "/(public)/publications/page": "app/(public)/publications/page.js",
-  "/(public)/about/page": "app/(public)/about/page.js",
-  "/(public)/portfolio/[slug]/page": "app/(public)/portfolio/[slug]/page.js",
-  "/(public)/portfolio/page": "app/(public)/portfolio/page.js"
+  "/(public)/page": "app/(public)/page.js"
 }
