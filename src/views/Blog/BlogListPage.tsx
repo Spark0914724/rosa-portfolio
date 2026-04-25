@@ -16,8 +16,8 @@ export function BlogListPage() {
   const otherPosts = blogs.slice(1);
 
   useDocumentHead({
-    title: 'Blog — Rosa Baker',
-    description: 'Articles, tutorials, and insights on web development, React, Node.js, and software engineering by Rosa Baker.',
+    title: 'Blog — Xin Yao Lee',
+    description: 'Articles, tutorials, and insights on web development, React, Node.js, and software engineering by Xin Yao Lee.',
     path: '/blog',
   });
 

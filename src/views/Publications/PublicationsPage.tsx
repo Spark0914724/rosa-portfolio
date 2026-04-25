@@ -10,8 +10,8 @@ export function PublicationsPage() {
     .sort((a, b) => (a.orderIndex ?? 0) - (b.orderIndex ?? 0));
 
   useDocumentHead({
-    title: 'Publications — Rosa Baker',
-    description: 'Research publications, papers, and academic work by Rosa Baker in software engineering and web development.',
+    title: 'Publications — Xin Yao Lee',
+    description: 'Research publications, papers, and academic work by Xin Yao Lee in software engineering and web development.',
     path: '/publications',
   });
 

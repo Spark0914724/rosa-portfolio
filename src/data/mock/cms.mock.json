@@ -1,7 +1,7 @@
 {
   "singletons": {
     "hero": {
-      "fullName": "Rosa Baker",
+      "fullName": "Xin Yao Lee",
       "headline": "Hi, I'm Rosa — Senior Web Developer",
       "subheadline": "Senior Web Developer",
       "heroImageUrl": "",
@@ -11,7 +11,7 @@
       "ctaSecondaryHref": "/contact"
     },
     "about": {
-      "fullName": "Rosa Baker",
+      "fullName": "Xin Yao Lee",
       "tagline": "Senior Web Developer",
       "title": "About Me",
       "bio": "Senior Web Developer with 6 years of practical experience developing and maintaining web applications across both backend and frontend systems. I specialize in backend technologies including Node.js, Laravel, Nest.js, and Python, with solid experience in designing RESTful APIs, handling data processing, and managing databases. I am also skilled in frontend development using React, Vue.js, Angular, and TypeScript, focusing on building clean and user-friendly interfaces. I have experience integrating frontend and backend components to ensure stable and consistent application performance. I work effectively in collaborative environments and communicate clearly with cross-functional teams. I am comfortable using tools like Git and maintaining structured codebases to improve and extend existing applications. I focus on writing maintainable code and delivering reliable, practical solutions in real-world projects.",
@@ -45,7 +45,7 @@
       {
         "id": "resume-1",
         "status": "active",
-        "title": "Rosa Baker - Resume",
+        "title": "Xin Yao Lee - Resume",
         "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
         "uploadedAt": "2026-01-05"
       }
@@ -303,7 +303,7 @@
         "orderIndex": 1,
         "slug": "bangla-document-classification-bert-bilstm",
         "title": "Simple Movies with Redux",
-        "authors": ["Rosa Baker"],
+        "authors": ["Xin Yao Lee"],
         "venue": "International Conference on Intelligent Data Analysis and Applications (IDAA 2025)",
         "year": "2025",
         "abstract": "This paper proposes a hybrid ensemble approach combining Bangla-BERT and Bi-LSTM models for Bangla document classification, achieving high accuracy and improved generalization. The work was accepted and presented at the IDAA 2025 conference at Daffodil International University.",
@@ -390,7 +390,7 @@
         "excerpt": "Blog posts are on the way.",
         "content": "<p>Stay tuned for upcoming articles.</p>",
         "coverImageUrl": "https://placehold.co/800x400?text=Coming+Soon",
-        "author": "Rosa Baker",
+        "author": "Xin Yao Lee",
         "publishedDate": "2026-02-01",
         "readTime": 3,
         "tags": ["Updates"]
@@ -402,14 +402,14 @@
         "status": "published",
         "orderIndex": 1,
         "author": "Md Abdullah Al Maruf",
-        "quote": "I have worked closely with Rosa Baker at DIU-CPC, IEEE DIU Student Branch, and HRDI, and it has been an amazing experience. He is dedicated, collaborative, and truly a real-life problem solver. Working with him has always been a valuable and positive experience."
+        "quote": "I have worked closely with Xin Yao Lee at DIU-CPC, IEEE DIU Student Branch, and HRDI, and it has been an amazing experience. He is dedicated, collaborative, and truly a real-life problem solver. Working with him has always been a valuable and positive experience."
       },
       {
         "id": "testi-2",
         "status": "published",
         "orderIndex": 2,
         "author": "Munawar Mesbah Shraban",
-        "quote": "I had the pleasure of working with Rosa Baker as a Student Associate at Yunus Khan Scholar Garden-1, DIU. He is dedicated, cooperative, and always supportive. Working with him was truly enriching, and I believe he will be a valuable asset in any team or organization."
+        "quote": "I had the pleasure of working with Xin Yao Lee as a Student Associate at Yunus Khan Scholar Garden-1, DIU. He is dedicated, cooperative, and always supportive. Working with him was truly enriching, and I believe he will be a valuable asset in any team or organization."
       }
     ],
     "achievements": [

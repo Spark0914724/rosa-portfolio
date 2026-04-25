@@ -15,8 +15,8 @@ export function ContactPage() {
   const socialLinks = Array.isArray(contact.socialLinks) ? contact.socialLinks : [];
 
   useDocumentHead({
-    title: 'Contact Rosa Baker',
-    description: 'Get in touch with Rosa Baker for web development projects, freelance work, or collaboration opportunities. Reach out via email or social media.',
+    title: 'Contact Xin Yao Lee',
+    description: 'Get in touch with Xin Yao Lee for web development projects, freelance work, or collaboration opportunities. Reach out via email or social media.',
     path: '/contact',
   });
 

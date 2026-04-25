@@ -21,8 +21,8 @@ export function PortfolioPage() {
   const [certModalImage, setCertModalImage] = useState('');
 
   useDocumentHead({
-    title: 'Portfolio — Rosa Baker',
-    description: 'Explore the portfolio of Rosa Baker — featured projects, case studies, and web development work.',
+    title: 'Portfolio — Xin Yao Lee',
+    description: 'Explore the portfolio of Xin Yao Lee — featured projects, case studies, and web development work.',
     path: '/portfolio',
   });
 

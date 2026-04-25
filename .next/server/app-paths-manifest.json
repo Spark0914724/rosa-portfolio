@@ -1,7 +1,4 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/visitor-logs/route": "app/api/visitor-logs/route.js",
-  "/(public)/portfolio/page": "app/(public)/portfolio/page.js",
-  "/(admin)/mhe-control-center/visitors/page": "app/(admin)/mhe-control-center/visitors/page.js",
+  "/api/track-visit/route": "app/api/track-visit/route.js",
   "/(public)/page": "app/(public)/page.js"
 }
