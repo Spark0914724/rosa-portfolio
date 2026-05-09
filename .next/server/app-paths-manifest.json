@@ -1,4 +1,6 @@
 {
   "/api/track-visit/route": "app/api/track-visit/route.js",
-  "/(public)/page": "app/(public)/page.js"
+  "/(public)/page": "app/(public)/page.js",
+  "/(public)/portfolio/page": "app/(public)/portfolio/page.js",
+  "/(public)/contact/page": "app/(public)/contact/page.js"
 }

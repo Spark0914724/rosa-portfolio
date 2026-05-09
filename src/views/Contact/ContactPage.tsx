@@ -127,7 +127,7 @@ export function ContactPage() {
           </div>
 
           {/* Social Links Card */}
-          {socialLinks.length > 0 && (
+          {/* {socialLinks.length > 0 && (
             <div className="group relative animate-fade-in" style={{ animationDelay: '200ms' }}>
               <div className="absolute -inset-0.5 bg-gradient-to-r from-[#C77DFF] to-[#9D4EDD] rounded-2xl blur-sm opacity-[0.06] group-hover:blur-md group-hover:opacity-[0.14] transition-all duration-600 ease-out" />
               <div className="relative bg-[#0B1320]/80 backdrop-blur-sm rounded-2xl p-6 shadow-lg shadow-[#C77DFF]/[0.05] border border-white/[0.06] hover:border-white/[0.12] transition-all duration-600 ease-out card-animated">
@@ -156,7 +156,7 @@ export function ContactPage() {
                 </div>
               </div>
             </div>
-          )}
+          )} */}
         </div>
 
         {/* Contact Form */}

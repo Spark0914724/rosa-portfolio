@@ -87,7 +87,7 @@ export function Footer() {
             )}
             
             {/* Social Links */}
-            <div className="flex gap-3">
+            {/* <div className="flex gap-3">
               {socialLinks.slice(0, 5).map((link, index) => {
                 const derived = detectSocialPlatform(String(link.url ?? ''));
                 const iconKey = (link.iconKey ?? derived.iconKey) as keyof typeof iconMap;
@@ -105,7 +105,7 @@ export function Footer() {
                   </a>
                 );
               })}
-            </div>
+            </div> */}
           </section>
 
           {/* Quick Links */}

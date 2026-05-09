@@ -33,7 +33,7 @@
         "location": "Changsha, China"
       },
       "socialLinks": [
-        { "url": "https://github.com/rosab0506", "platform": "github", "iconKey": "github" }
+        { "url": "https://github.com/TALHA1000RR", "platform": "github", "iconKey": "github" }
       ]
     },
     "resumeSettings": {
@@ -125,7 +125,7 @@
         "description": "A powerful database-agnostic ORM built in Go with Prisma-like functionality, multi-database support (PostgreSQL, MySQL, SQLite), and type-safe code generation for Go, JavaScript, TypeScript, and Python",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220619.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220619.png",
-        "githubUrl": "https://github.com/rosab0506/flash",
+        "githubUrl": "https://github.com/TALHA1000RR/flash",
         "liveDemoUrl": "https://lumos-labs-hq.github.io/flash/",
         "techStack": ["Go", "TypeScript", "Python", "PostgreSQL", "MySQL", "SQLite", "SQLite", "VitePress", "MongoDB", "Redis"],
         "featured": true
@@ -140,7 +140,7 @@
         "description": "Zero-config, auto-generated API documentation for Express.js and Hono frameworks. Built with Go and fasthttp for extreme performance with automatic route detection and Swagger UI.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220710.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220710.png",
-        "githubUrl": "https://github.com/rosab0506/atomicdocs",
+        "githubUrl": "https://github.com/TALHA1000RR/atomicdocs",
         "liveDemoUrl": "",
         "techStack": ["Go", "TypeScript", "JavaScript", "FastHTTP", "Express.js", "Hono", "Swagger"],
         "featured": true
@@ -155,7 +155,7 @@
         "description": "High-performance PostgreSQL driver for Node.js built with C++ and N-API. Drop-in replacement for pg with 2-5x better performance, connection pooling, prepared statements, and LISTEN/NOTIFY support.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220724.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220724.png",
-        "githubUrl": "https://github.com/rosab0506/pgnx",
+        "githubUrl": "https://github.com/TALHA1000RR/pgnx",
         "liveDemoUrl": "",
         "techStack": ["C++", "JavaScript", "TypeScript", "Node.js", "PostgreSQL", "libpqxx", "N-API"],
         "featured": true
@@ -170,7 +170,7 @@
         "description": "A simple image editing tool that allows you to remove backgrounds,objects,recolor objects ,and resize images.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220732.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220732.png",
-        "githubUrl": "https://github.com/rosab0506/ImageMagic",
+        "githubUrl": "https://github.com/TALHA1000RR/ImageMagic",
         "liveDemoUrl": "https://imagemagic.swarnendu.me/",
         "techStack": ["React", "NextJs", "TailwindCss", "Typescript", "Nodejs", "Mongodb", "stripe"],
         "featured": true
@@ -185,7 +185,7 @@
         "description": "Prigen is end to end encrypted file sharing application to share file with secutiry and speed.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220741.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220741.png",
-        "githubUrl": "https://github.com/rosab0506/Prigen",
+        "githubUrl": "https://github.com/TALHA1000RR/Prigen",
         "liveDemoUrl": "https://prigen.swarnendu.me/",
         "techStack": ["Python", "TypeScript", "NodeJs", "FastAPI", "React", "Telegram Bot API", "Redis", "Docker", "OpenAI API", "X API", "PostgresSQL", "CI/CD", "Monorepo", "JUPITER", "NGNIX"],
         "featured": true
@@ -200,7 +200,7 @@
         "description": "PredictX is a Telegram bot that trades tokens based on bullish tweets from user-selected X accounts, powered by AI sentiment analysis and automated price tracking.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220747.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220747.png",
-        "githubUrl": "https://github.com/rosab0506/x-monitoring",
+        "githubUrl": "https://github.com/TALHA1000RR/x-monitoring",
         "liveDemoUrl": "",
         "techStack": ["Python", "TypeScript", "NodeJs", "FastAPI", "Telegram Bot API", "Redis", "Docker", "OpenAI API", "X API", "PostgresSQL", "CI/CD", "Monorepo", "JUPITER", "NGNIX"],
         "featured": true
@@ -215,7 +215,7 @@
         "description": "An AI-powered app where users can generate full songs from lyrics or music, clone their own voice, and sing the song in their voice with perfectly matched melodies and instrumentals.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220753.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220753.png",
-        "githubUrl": "https://github.com/rosab0506/x-monitoring",
+        "githubUrl": "https://github.com/TALHA1000RR/x-monitoring",
         "liveDemoUrl": "https://sonicraft.swarnendu.me/",
         "techStack": ["NextJs", "TypeScript", "Python", "FastAPI", "React", "TailwindCss", "Postgres", "Sqlalchemy", "Docker", "CI/CD", "Monorepo", "AWS", "Biome"],
         "featured": true
@@ -230,7 +230,7 @@
         "description": "ChainX is No-Code automation platform. Users can create atuomations to make their life easy.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220802.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220802.png",
-        "githubUrl": "https://github.com/rosab0506/ChainX",
+        "githubUrl": "https://github.com/TALHA1000RR/ChainX",
         "liveDemoUrl": "",
         "techStack": ["NextJs", "TypeScript", "React", "TailwindCss", "ReactFlow", "Fremer Motion", "NodeJs", "ExpressJs", "PostgressSQL", "Prisma", "Docker", "Kafka", "monorepo"],
         "featured": true
@@ -245,7 +245,7 @@
         "description": "Market Fusion is a crypto ng Exchange where users can trade uscn/sol Tata/INR and many more currency.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220807.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220807.png",
-        "githubUrl": "https://github.com/rosab0506/Market-FusionX",
+        "githubUrl": "https://github.com/TALHA1000RR/Market-FusionX",
         "liveDemoUrl": "",
         "techStack": ["NextJs", "TypeScript", "React", "TailwindCss", "Trading View", "lightweight-charts", "NodeJs", "ExpressJs", "TimeScalDb", "PostgresSQL", "Docker", "Redis", "Websocket"],
         "featured": true
@@ -260,7 +260,7 @@
         "description": "This is a web application where users can generate Images , Video , Music , Code and they can also use use our chatbot.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220812.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220812.png",
-        "githubUrl": "https://github.com/rosab0506/ChainX",
+        "githubUrl": "https://github.com/TALHA1000RR/ChainX",
         "liveDemoUrl": "",
         "techStack": ["NextJs", "TypeScript", "React", "TailwindCss", "PostgressSQL", "Prisma", "Hugging Face API", "Opan AI API"],
         "featured": true
@@ -275,7 +275,7 @@
         "description": "This is a simple trading bot in CoinDcX space when there is arb in market we can trade using this and gain some money.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220820.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220820.png",
-        "githubUrl": "https://github.com/rosab0506/Trading-bot",
+        "githubUrl": "https://github.com/TALHA1000RR/Trading-bot",
         "liveDemoUrl": "",
         "techStack": ["Bun", "TypeScript", "CoinDcx API"],
         "featured": true
@@ -290,7 +290,7 @@
         "description": "Simple landing page of iphonr using three hs and gsap.",
         "coverImageUrl": "./images/Projects/Screenshot 2026-04-20 220826.png",
         "galleryImages": "./images/Projects/Screenshot 2026-04-20 220826.png",
-        "githubUrl": "https://github.com/rosab0506/Iphone.in",
+        "githubUrl": "https://github.com/TALHA1000RR/Iphone.in",
         "liveDemoUrl": "",
         "techStack": ["React", "Javasript", "ThreeJs", "GSAP", "Tailwindcss"],
         "featured": true
