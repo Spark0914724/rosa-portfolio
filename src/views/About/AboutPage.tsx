@@ -17,8 +17,8 @@ export function AboutPage() {
   const certifications = published(data.collections.certifications ?? []);
 
   useDocumentHead({
-    title: 'About Xin Yao Lee',
-    description: `Xin Yao Lee — ${about.currentRole ?? 'Full-Stack Developer'}. Learn about his skills, experience, education, and professional certifications.`,
+    title: 'About Lee Xin Yao',
+    description: `Lee Xin Yao — ${about.currentRole ?? 'Full-Stack Developer'}. Learn about his skills, experience, education, and professional certifications.`,
     path: '/about',
   });
 

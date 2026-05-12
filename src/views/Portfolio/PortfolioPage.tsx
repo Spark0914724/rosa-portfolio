@@ -21,8 +21,8 @@ export function PortfolioPage() {
   const [certModalImage, setCertModalImage] = useState('');
 
   useDocumentHead({
-    title: 'Portfolio — Xin Yao Lee',
-    description: 'Explore the portfolio of Xin Yao Lee — featured projects, case studies, and web development work.',
+    title: 'Portfolio — Lee Xin Yao',
+    description: 'Explore the portfolio of Lee Xin Yao — featured projects, case studies, and web development work.',
     path: '/portfolio',
   });
 

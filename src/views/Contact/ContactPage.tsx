@@ -15,8 +15,8 @@ export function ContactPage() {
   const socialLinks = Array.isArray(contact.socialLinks) ? contact.socialLinks : [];
 
   useDocumentHead({
-    title: 'Contact Xin Yao Lee',
-    description: 'Get in touch with Xin Yao Lee for web development projects, freelance work, or collaboration opportunities. Reach out via email or social media.',
+    title: 'Contact Lee Xin Yao',
+    description: 'Get in touch with Lee Xin Yao for web development projects, freelance work, or collaboration opportunities. Reach out via email or social media.',
     path: '/contact',
   });
 
@@ -200,7 +200,33 @@ export function ContactPage() {
 
                   setFormValues({ name: '', email: '', subject: '', message: '' });
                   setErrors({});
-                  setSuccess('Message sent successfully!');
+                  
+                  // Show appropriate success message
+                  let successMessage = 'Message sent successfully!';
+                  
+                  if (result.storage === 'temporary_memory') {
+                    successMessage = 'Message sent successfully! (Temporarily stored - database setup needed)';
+                    console.log('📝 Note: Message stored temporarily. To set up permanent storage:');
+                    console.log('1. Go to Supabase Dashboard > SQL Editor');
+                    console.log('2. Run the SQL script: scripts/create-contact-messages-simple.sql');
+                    console.log('3. Messages will then save to database automatically');
+                  }
+                  
+                  if (result.email_note) {
+                    successMessage += ' Email notification needs setup.';
+                    console.log('📧 Email setup needed to receive messages in inbox.');
+                    console.log('Check server logs for message details.');
+                  }
+                  
+                  setSuccess(successMessage);
+                  
+                  // Log message details for now (since email isn't set up yet)
+                  console.log('📨 Message Details:');
+                  console.log('From:', formValues.name, `<${formValues.email}>`);
+                  console.log('Subject:', formValues.subject);
+                  console.log('Message:', formValues.message);
+                  console.log('---');
+                  
                 } catch (error) {
                   console.error('Failed to send message:', error);
                   setErrors({ submit: error instanceof Error ? error.message : 'Failed to send message. Please try again.' });
@@ -284,14 +310,13 @@ export function ContactPage() {
                       </>
                     )}
                   </button>
-
+                </div>
                   {success && (
                     <div className="flex items-center gap-2 text-[#C77DFF] animate-slide-in-left">
                       <CheckCircle2 className="w-5 h-5 animate-bounce-subtle" />
                       <span className="font-medium">{success}</span>
                     </div>
                   )}
-                </div>
               </div>
             </form>
           </div>

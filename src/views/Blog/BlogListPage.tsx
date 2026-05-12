@@ -16,8 +16,8 @@ export function BlogListPage() {
   const otherPosts = blogs.slice(1);
 
   useDocumentHead({
-    title: 'Blog — Xin Yao Lee',
-    description: 'Articles, tutorials, and insights on web development, React, Node.js, and software engineering by Xin Yao Lee.',
+    title: 'Blog — Lee Xin Yao',
+    description: 'Articles, tutorials, and insights on web development, React, Node.js, and software engineering by Lee Xin Yao.',
     path: '/blog',
   });
 
