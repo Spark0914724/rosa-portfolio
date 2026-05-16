@@ -1,7 +1,7 @@
 'use client';
 import { useEffect } from 'react';
 
-const SITE_NAME = 'Lee Xin Yao';
+const SITE_NAME = 'Yang Ching Yan';
 const SITE_URL = 'https://mahedihasanemon.site';
 const DEFAULT_IMAGE = `${SITE_URL}/favicon.png`;
 

@@ -19,8 +19,8 @@ export function ServicesPage() {
     .sort((a, b) => (a.orderIndex ?? 0) - (b.orderIndex ?? 0));
 
   useDocumentHead({
-    title: 'Services — Lee Xin Yao',
-    description: 'Professional web development services by Lee Xin Yao. Full-stack development, UI/UX design, and custom software solutions.',
+    title: 'Services — Yang Ching Yan',
+    description: 'Professional web development services by Yang Ching Yan. Full-stack development, UI/UX design, and custom software solutions.',
     path: '/services',
   });
 
