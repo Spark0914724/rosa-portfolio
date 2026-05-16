@@ -10,8 +10,8 @@ export function PublicationsPage() {
     .sort((a, b) => (a.orderIndex ?? 0) - (b.orderIndex ?? 0));
 
   useDocumentHead({
-    title: 'Publications — Yang Ching Yan',
-    description: 'Research publications, papers, and academic work by Yang Ching Yan in software engineering and web development.',
+    title: 'Publications — Lee Xin Yao',
+    description: 'Research publications, papers, and academic work by Lee Xin Yao in software engineering and web development.',
     path: '/publications',
   });
 

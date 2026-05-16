@@ -7,10 +7,10 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Yang Ching Yan — Full-Stack Developer & Portfolio',
-    template: '%s — Yang Ching Yan',
+    default: 'Lee Xin Yao — Full-Stack Developer & Portfolio',
+    template: '%s — Lee Xin Yao',
   },
-  description: 'Yang Ching Yan — Full-Stack Developer specializing in scalable web platforms, React, Node.js, and modern cloud solutions.',
+  description: 'Lee Xin Yao — Full-Stack Developer specializing in scalable web platforms, React, Node.js, and modern cloud solutions.',
   icons: {
     icon: [
       { url: '/favicon.png', type: 'image/png' },

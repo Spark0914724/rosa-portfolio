@@ -16,8 +16,8 @@ export function BlogListPage() {
   const otherPosts = blogs.slice(1);
 
   useDocumentHead({
-    title: 'Blog — Yang Ching Yan',
-    description: 'Articles, tutorials, and insights on web development, React, Node.js, and software engineering by Yang Ching Yan.',
+    title: 'Blog — Lee Xin Yao',
+    description: 'Articles, tutorials, and insights on web development, React, Node.js, and software engineering by Lee Xin Yao.',
     path: '/blog',
   });
 
